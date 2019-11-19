@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="artem.divin@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.254.31" />
+          <option name="userName" value="divin@mysmartflat.ru" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
