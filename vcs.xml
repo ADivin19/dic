@@ -10,6 +10,10 @@
           <option name="url" value="http://192.168.254.31" />
           <option name="userName" value="divin@mysmartflat.ru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="artem.divin" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
